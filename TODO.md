@@ -1,0 +1,5 @@
+- [x] Fix Daily Wellness Check-in (Questionnaire.tsx) form submission issue - ensure "Complete Check-in" button triggers submit
+- [x] Fix Mood Tracking (MoodTracking.tsx) form submission issue - ensure "Save Mood Entry" button triggers submit
+- [x] Enhance Activities page with more activities and YouTube URLs based on user mood
+- [x] Update mock activities in useApi.ts with additional activities and proper YouTube URLs
+- [x] Test form submissions and activity display

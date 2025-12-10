@@ -1,2 +1,10 @@
-# MentalWellBeingApp
-A mood-tracking app where users check in daily, view progress through graphs, and receive personalized suggestions to improve mental well-being. With a built-in chatbot and daily questionnaires, it offers instant feedback and acts as a personal mental-health companion
+## MindfulMoments
+
+This app was created using https://getmocha.com.
+Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+
+To run the devserver:
+```
+npm install
+npm run dev
+```
